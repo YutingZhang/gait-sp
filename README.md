@@ -2,7 +2,7 @@
 
 This is the code for the following paper:
 
-Yuting Zhang, Gang Pan, Kui Jia, Minlong Lu, Yueming Wang, Zhaohui Wu, “Accelerometer-based Gait Recognition by Sparse Representation of Signature Points with Clusters”, *IEEE Transactions on Cybernetics*, 2015. vol. 45, no. 9, pp. 1864 – 1875, Sept. 2015.
+Yuting Zhang, Gang Pan, Kui Jia, Minlong Lu, Yueming Wang, Zhaohui Wu, “Accelerometer-based Gait Recognition by Sparse Representation of Signature Points with Clusters”, *IEEE Transactions on Cybernetics*, vol. 45, no. 9, pp. 1864 – 1875, Sept. 2015.
 
 
 Preparation
