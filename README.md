@@ -14,6 +14,8 @@ Compile MinMaxSelection toolbox:
 	$ matlab
 	> minmax_install.m
 
+You can refer to [the webpage of the MinMaxSelection toolbox](https://www.mathworks.com/matlabcentral/fileexchange/23576-min-max-selection) for more information and missing files for windows. 
+
 Compile OMP toolbox:
 
 	$ cd bin/ompbox/private
